@@ -1,0 +1,9 @@
+# text-editors
+*.swp
+.vscode
+.idea
+
+# python build
+/__pycache__
+*.pyc
+/sarenv
